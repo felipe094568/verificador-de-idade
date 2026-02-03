@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(75, 161, 241);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+   width: 500px;
+   padding: 15px;
+   background-color: white;
+   border-radius: 10px;
+   margin: auto;
+}
+
+footer{
+    font-size: 20px;
+    color: rgb(10, 10, 10);
+    text-align: center;
+    margin-top: 200px;
+}
+
